@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aa-frontend/static/css/main.de08eb5e.chunk.css",
+    "main.js": "/aa-frontend/static/js/main.8b6c6c64.chunk.js",
+    "main.js.map": "/aa-frontend/static/js/main.8b6c6c64.chunk.js.map",
+    "runtime-main.js": "/aa-frontend/static/js/runtime-main.6eb61e98.js",
+    "runtime-main.js.map": "/aa-frontend/static/js/runtime-main.6eb61e98.js.map",
+    "static/js/2.ac39718f.chunk.js": "/aa-frontend/static/js/2.ac39718f.chunk.js",
+    "static/js/2.ac39718f.chunk.js.map": "/aa-frontend/static/js/2.ac39718f.chunk.js.map",
+    "static/js/3.daa4540a.chunk.js": "/aa-frontend/static/js/3.daa4540a.chunk.js",
+    "static/js/3.daa4540a.chunk.js.map": "/aa-frontend/static/js/3.daa4540a.chunk.js.map",
+    "index.html": "/aa-frontend/index.html",
+    "static/css/main.de08eb5e.chunk.css.map": "/aa-frontend/static/css/main.de08eb5e.chunk.css.map",
+    "static/js/2.ac39718f.chunk.js.LICENSE.txt": "/aa-frontend/static/js/2.ac39718f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6eb61e98.js",
+    "static/js/2.ac39718f.chunk.js",
+    "static/css/main.de08eb5e.chunk.css",
+    "static/js/main.8b6c6c64.chunk.js"
+  ]
+}
